@@ -8,7 +8,6 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-AhmedBenTaha-0d1117?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AhmedBenTaha)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Taha-0d1117?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/ahmedtaha26/)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-ApexVOrteX--1-0d1117?style=for-the-badge\&logo=huggingface\&logoColor=FFD21E)](https://huggingface.co/ApexVOrteX-1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-ahmedelsayedtaha-0d1117?style=for-the-badge\&logo=kaggle\&logoColor=20BEFF)](https://www.kaggle.com/ahmedelsayedtaha)
