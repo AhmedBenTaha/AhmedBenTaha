@@ -1,28 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,25:1A1A4A,50:8B5CF6,75:00A8FF,100:00E5FF&height=260&section=header&text=AHMED%20ELSAYED%20TAHA&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%26%20Data%20Scientist&descAlignY=55&descSize=19&descColor=00E5FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,20:0B1020,45:312E81,70:7C3AED,100:00E5FF&height=280&section=header&text=AHMED%20ELSAYED%20TAHA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20LLM%20%26%20Agentic%20AI&descAlignY=55&descSize=20&descColor=00E5FF" width="100%"/>
 
 <a href="https://github.com/AhmedBenTaha">
-  <img src="https://readme-typing-svg.demolab.com/?lines=LLM+Engineer;Generative+AI+Engineer;RAG+Engineer;AI+Agents+Developer;Machine+Learning+Engineer;Data+Scientist;Production+AI+Builder&font=Fira+Code&center=true&width=620&height=50&color=00E5FF&vCenter=true&size=23&pause=1100&background=00000000" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer;LLM+Engineer;Generative+AI+Engineer;RAG+Engineer;AI+Agents+Developer;Agentic+AI+Builder;Production+AI+Engineer;Machine+Learning+Engineer&font=Fira+Code&center=true&width=720&height=55&color=00E5FF&vCenter=true&size=23&pause=1000&background=00000000" alt="Typing SVG"/>
 </a>
 
-<sub>Building intelligent systems around LLMs — from retrieval and reasoning to evaluation, guardrails, and production.</sub>
+<br/>
+
+<sub>
+Building intelligent systems with LLMs, RAG, AI Agents, tool calling, evaluation,
+guardrails, and production-ready AI infrastructure.
+</sub>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AhmedBenTaha&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=AhmedBenTaha&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/AhmedBenTaha?label=FOLLOWERS&style=for-the-badge&color=00A8FF&logo=github"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/ahmedtaha26/"><img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/ahmedelsayedtaha"><img src="https://img.shields.io/badge/Kaggle-00E5FF?style=for-the-badge&logo=kaggle&logoColor=black"/></a>
-<a href="https://huggingface.co/ApexVOrteX-1"><img src="https://img.shields.io/badge/Hugging%20Face-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
-<a href="mailto:<!-- ADD EMAIL HERE -->"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmedtaha26/"><img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://www.kaggle.com/ahmedelsayedtaha"><img src="https://img.shields.io/badge/Kaggle-00E5FF?style=for-the-badge&logo=kaggle&logoColor=black"/></a> <a href="https://huggingface.co/ApexVOrteX-1"><img src="https://img.shields.io/badge/Hugging%20Face-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white"/></a> <a href="mailto:<!-- ADD EMAIL HERE -->"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8FF,50:8B5CF6,100:EC4899&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,35:00A8FF,70:8B5CF6,100:EC4899&height=3&width=100%"/>
 
 </div>
 
@@ -30,33 +32,56 @@
 
 <table width="100%">
 <tr>
-<td width="65%" valign="top">
+
+<td width="68%" valign="top">
 
 ## 🧠 About Me
 
-I'm an **AI Engineer & Data Scientist** focused on building practical AI systems — the kind that need to hold up outside of a notebook. My work sits at the intersection of **LLM Engineering, RAG, and AI Agents**, with a data-science foundation underneath it.
+I'm an **AI Engineer** focused on building intelligent applications around **LLMs, RAG, and Agentic AI**.
 
-I'm drawn to the engineering layer *around* the model: retrieval quality, context design, evaluation, guardrails, and observability — the parts that decide whether an AI system is a demo or something you can actually trust.
+My work goes beyond prompting models. I focus on the engineering layer that makes AI systems useful in real applications:
 
-I'm early in my career and building deliberately — one reliable system at a time.
+**retrieval → reasoning → tool use → orchestration → evaluation → guardrails → observability → APIs**
+
+I've built and experimented with:
+
+* **RAG & Hybrid Retrieval Systems**
+* **Multi-Agent & Agentic Workflows**
+* **Tool-Using AI Agents**
+* **LLM Gateways & Model Routing**
+* **LLM Evaluation & Observability**
+* **Guardrails & Safe AI Pipelines**
+* **Document Intelligence & OCR**
+* **LLM Fine-Tuning with LoRA / QLoRA**
+* **Production-oriented FastAPI AI Services**
+
+I'm early in my career and building deliberately — focusing on understanding how modern AI systems are designed, evaluated, and deployed.
 
 </td>
-<td width="35%" valign="top" align="center">
+
+<td width="32%" valign="top" align="center">
 
 ```text
-   ╭──────────────╮
-   │   ◉     ◉   │
-   │      ▽       │
-   │  ┌────────┐  │
-   │  │ AI ENG │  │
-   │  └────────┘  │
-   ╰──┬────────┬──╯
-      │ ░░░░░░ │
-      ╰────────╯
-   status: building...
+        ╭───────────────╮
+        │   ◉       ◉   │
+        │       ▽       │
+        │   ┌───────┐   │
+        │   │  AI   │   │
+        │   │ ENG   │   │
+        │   └───────┘   │
+        ╰──────┬─┬──────╯
+               │ │
+          ┌────┘ └────┐
+          │  BUILD    │
+          │  EVAL     │
+          │  IMPROVE  │
+          └───────────┘
+
+       status: building...
 ```
 
 </td>
+
 </tr>
 </table>
 
@@ -64,124 +89,240 @@ I'm early in my career and building deliberately — one reliable system at a ti
 
 <br/>
 
-## 🧬 Technical Skills
+# 🧬 Technical Skills
 
 <div align="center">
 
-**◆ Core AI & Machine Learning**
+## ⚡ AI Engineering
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/Machine%20Learning-0B1020?style=flat-square&color=00A8FF"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-0B1020?style=flat-square&color=00A8FF"/>
-<img src="https://img.shields.io/badge/NLP-0B1020?style=flat-square&color=00A8FF"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-0B1020?style=flat-square&color=00A8FF"/>
-<img src="https://img.shields.io/badge/Generative%20AI-0B1020?style=flat-square&color=00A8FF"/>
-<img src="https://img.shields.io/badge/Neural%20Networks-0B1020?style=flat-square&color=00A8FF"/>
 
 <br/><br/>
 
-**◆ LLM Engineering** <sub>(core specialization)</sub>
-
-<img src="https://img.shields.io/badge/RAG-0B1020?style=for-the-badge&color=00E5FF"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-0B1020?style=for-the-badge&color=00E5FF"/>
-<img src="https://img.shields.io/badge/Context%20Engineering-0B1020?style=for-the-badge&color=00E5FF"/>
-<br/>
-<img src="https://img.shields.io/badge/Fine--tuning-0B1020?style=for-the-badge&color=00E5FF"/>
-<img src="https://img.shields.io/badge/LoRA-0B1020?style=for-the-badge&color=00E5FF"/>
-<img src="https://img.shields.io/badge/QLoRA-0B1020?style=for-the-badge&color=00E5FF"/>
-<br/>
-<img src="https://img.shields.io/badge/Embeddings-0B1020?style=for-the-badge&color=00E5FF"/>
-<img src="https://img.shields.io/badge/Inference-0B1020?style=for-the-badge&color=00E5FF"/>
-<img src="https://img.shields.io/badge/LLM%20Evaluation-0B1020?style=for-the-badge&color=00E5FF"/>
-<br/>
-<img src="https://img.shields.io/badge/Guardrails-0B1020?style=for-the-badge&color=00E5FF"/>
-<img src="https://img.shields.io/badge/LLM%20Gateways-0B1020?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-050816?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-050816?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-050816?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/NLP-050816?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-050816?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/Generative%20AI-050816?style=for-the-badge&color=00E5FF"/>
 
 <br/><br/>
 
-**◆ RAG & Information Retrieval**
+## 🧠 LLM Engineering
+
+<img src="https://img.shields.io/badge/LLM%20Applications-050816?style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/RAG-050816?style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Context%20Engineering-050816?style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-050816?style=for-the-badge&color=8B5CF6"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Fine--Tuning-050816?style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/LoRA-050816?style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/QLoRA-050816?style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Structured%20Outputs-050816?style=for-the-badge&color=8B5CF6"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Tool%20Calling-050816?style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Function%20Calling-050816?style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/LLM%20Evaluation-050816?style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/badge/Inference-050816?style=for-the-badge&color=8B5CF6"/>
+
+<br/><br/>
+
+## 🔎 RAG & Information Retrieval
 
 ```text
-Documents → Processing → Chunking → Embeddings
-    → Vector Search → Hybrid Retrieval → Reranking → LLM
+┌──────────────┐
+│   Documents  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│ Parse / OCR  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   Chunking   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│  Embeddings  │
+└──────┬───────┘
+       ↓
+┌────────────────────────────┐
+│ Dense + Lexical Retrieval  │
+│      Hybrid Search         │
+└────────────┬───────────────┘
+             ↓
+       ┌───────────┐
+       │ Reranking │
+       └─────┬─────┘
+             ↓
+          ┌─────┐
+          │ LLM │
+          └─────┘
 ```
 
-<img src="https://img.shields.io/badge/Chunking-0B1020?style=flat-square&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/Vector%20Search-0B1020?style=flat-square&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/Hybrid%20Search-0B1020?style=flat-square&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/Metadata%20Filtering-0B1020?style=flat-square&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/Reranking-0B1020?style=flat-square&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/Qdrant-0B1020?style=flat-square&color=8B5CF6"/>
-
-<br/><br/>
-
-**◆ AI Agents**
-
-<img src="https://img.shields.io/badge/LangChain-0B1020?style=for-the-badge&logo=langchain&logoColor=white&color=EC4899"/>
-<img src="https://img.shields.io/badge/LangGraph-0B1020?style=for-the-badge&color=EC4899"/>
-<img src="https://img.shields.io/badge/ReAct-0B1020?style=for-the-badge&color=EC4899"/>
-<br/>
-<img src="https://img.shields.io/badge/Agentic%20AI-0B1020?style=for-the-badge&color=EC4899"/>
-<img src="https://img.shields.io/badge/Tool%20Calling-0B1020?style=for-the-badge&color=EC4899"/>
-<img src="https://img.shields.io/badge/MCP-0B1020?style=for-the-badge&color=EC4899"/>
-<br/>
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-0B1020?style=for-the-badge&color=EC4899"/>
-<img src="https://img.shields.io/badge/Planning-0B1020?style=for-the-badge&color=EC4899"/>
-<img src="https://img.shields.io/badge/Workflow%20Orchestration-0B1020?style=for-the-badge&color=EC4899"/>
-
-<br/><br/>
-
-**◆ Data Science & Analytics**
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-<br/>
-<img src="https://img.shields.io/badge/Pandas-0B1020?style=flat-square&color=22C55E&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-0B1020?style=flat-square&color=22C55E&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-0B1020?style=flat-square&color=22C55E&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-0B1020?style=flat-square&color=22C55E&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Statistics-0B1020?style=flat-square&color=22C55E"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-0B1020?style=flat-square&color=22C55E"/>
-
-<br/><br/>
-
-**◆ Backend & API Engineering**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi&theme=dark"/>
-<img src="https://img.shields.io/badge/REST%20APIs-0B1020?style=flat-square&color=00A8FF"/>
-<img src="https://img.shields.io/badge/Async%20Python-0B1020?style=flat-square&color=00A8FF"/>
-<img src="https://img.shields.io/badge/API%20Design-0B1020?style=flat-square&color=00A8FF"/>
-
-<br/><br/>
-
-**◆ MLOps & Production AI**
-
-<img src="https://skillicons.dev/icons?i=docker,git&theme=dark"/>
-<img src="https://img.shields.io/badge/MLflow-0B1020?style=flat-square&color=8B5CF6&logo=mlflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangSmith-0B1020?style=flat-square&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/Observability-0B1020?style=flat-square&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/Monitoring-0B1020?style=flat-square&color=8B5CF6"/>
-<img src="https://img.shields.io/badge/Production%20Architecture-0B1020?style=flat-square&color=8B5CF6"/>
-
-<br/><br/>
-
-**◆ AI APIs & Platforms**
-
-<img src="https://img.shields.io/badge/OpenRouter-0B1020?style=flat-square&color=00E5FF"/>
-<img src="https://img.shields.io/badge/Groq-0B1020?style=flat-square&color=00E5FF"/>
-<img src="https://img.shields.io/badge/Google%20Gemini-0B1020?style=flat-square&color=00E5FF&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-0B1020?style=flat-square&color=00E5FF&logo=huggingface&logoColor=white"/>
-
-<br/><br/>
-
-**◆ Development Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark"/>
+<img src="https://img.shields.io/badge/Qdrant-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/pgvector-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/PostgreSQL-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Hybrid%20Search-050816?style=for-the-badge&color=EC4899"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector%20Search-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/BM25-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Reranking-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Metadata%20Filtering-050816?style=for-the-badge&color=EC4899"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Embeddings-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Cohere-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Voyage%20AI-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Chunking-050816?style=for-the-badge&color=EC4899"/>
+
+<br/><br/>
+
+## 🤖 Agentic AI
+
+<img src="https://img.shields.io/badge/LangChain-050816?style=for-the-badge&logo=langchain&logoColor=white&color=EC4899"/>
+<img src="https://img.shields.io/badge/LangGraph-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Agno-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/DeepAgents-050816?style=for-the-badge&color=EC4899"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Google%20ADK-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/ReAct-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Agentic%20Workflows-050816?style=for-the-badge&color=EC4899"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Planning-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Tool%20Use-050816?style=for-the-badge&color=EC4899"/>
+<img src="https://img.shields.io/badge/Memory-050816?style=for-the-badge&color=EC4899"/>
+
+<br/><br/>
+
+## 🔌 AI Agent Protocols
+
+<img src="https://img.shields.io/badge/MCP-050816?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/A2A-050816?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/Agent%20Communication-050816?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/Tool%20Integration-050816?style=for-the-badge&color=00E5FF"/>
+
+<br/><br/>
+
+## 🛡️ AI Reliability & Observability
+
+<img src="https://img.shields.io/badge/LLM%20Evaluation-050816?style=for-the-badge&color=00A8FF"/>
+<img src="https://img.shields.io/badge/Guardrails-050816?style=for-the-badge&color=00A8FF"/>
+<img src="https://img.shields.io/badge/NeMo%20Guardrails-050816?style=for-the-badge&color=00A8FF"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Observability-050816?style=for-the-badge&color=00A8FF"/>
+<img src="https://img.shields.io/badge/Logfire-050816?style=for-the-badge&color=00A8FF"/>
+<img src="https://img.shields.io/badge/LangSmith-050816?style=for-the-badge&color=00A8FF"/>
+<img src="https://img.shields.io/badge/Tracing-050816?style=for-the-badge&color=00A8FF"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/LLM%20Gateways-050816?style=for-the-badge&color=00A8FF"/>
+<img src="https://img.shields.io/badge/Portkey-050816?style=for-the-badge&color=00A8FF"/>
+<img src="https://img.shields.io/badge/Model%20Routing-050816?style=for-the-badge&color=00A8FF"/>
+<img src="https://img.shields.io/badge/AI%20Safety-050816?style=for-the-badge&color=00A8FF"/>
+
+<br/><br/>
+
+## 📄 Document Intelligence
+
+<img src="https://img.shields.io/badge/OCR-050816?style=for-the-badge&color=F97316"/>
+<img src="https://img.shields.io/badge/Document%20Understanding-050816?style=for-the-badge&color=F97316"/>
+<img src="https://img.shields.io/badge/Information%20Extraction-050816?style=for-the-badge&color=F97316"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Unstructured-050816?style=for-the-badge&color=F97316"/>
+<img src="https://img.shields.io/badge/PDF%20Processing-050816?style=for-the-badge&color=F97316"/>
+<img src="https://img.shields.io/badge/Image%20Processing-050816?style=for-the-badge&color=F97316"/>
+<img src="https://img.shields.io/badge/Normalization-050816?style=for-the-badge&color=F97316"/>
+
+<br/><br/>
+
+## ⚙️ Backend & AI APIs
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FastAPI-050816?style=for-the-badge&color=22C55E"/>
+<img src="https://img.shields.io/badge/REST%20APIs-050816?style=for-the-badge&color=22C55E"/>
+<img src="https://img.shields.io/badge/Async%20Python-050816?style=for-the-badge&color=22C55E"/>
+<img src="https://img.shields.io/badge/Pydantic-050816?style=for-the-badge&color=22C55E"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Temporal-050816?style=for-the-badge&color=22C55E"/>
+<img src="https://img.shields.io/badge/Workflow%20Orchestration-050816?style=for-the-badge&color=22C55E"/>
+<img src="https://img.shields.io/badge/API%20Integration-050816?style=for-the-badge&color=22C55E"/>
+
+<br/><br/>
+
+## 🌐 Models & AI Platforms
+
+<img src="https://img.shields.io/badge/Groq-050816?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/OpenRouter-050816?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-050816?style=for-the-badge&color=00E5FF&logo=googlegemini&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-050816?style=for-the-badge&color=00E5FF&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qwen-050816?style=for-the-badge&color=00E5FF"/>
+<img src="https://img.shields.io/badge/GPT--2-050816?style=for-the-badge&color=00E5FF"/>
+
+<br/><br/>
+
+## 📊 Data Science
+
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Pandas-050816?style=flat-square&color=22C55E&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-050816?style=flat-square&color=22C55E&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-050816?style=flat-square&color=22C55E&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-050816?style=flat-square&color=22C55E&logo=powerbi&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Statistics-050816?style=flat-square&color=22C55E"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-050816?style=flat-square&color=22C55E"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-050816?style=flat-square&color=22C55E"/>
+<img src="https://img.shields.io/badge/Predictive%20Modeling-050816?style=flat-square&color=22C55E"/>
+
+<br/><br/>
+
+## 🚀 Deployment & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,anaconda&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Gradio-050816?style=for-the-badge&color=FF7C00"/>
+<img src="https://img.shields.io/badge/Streamlit-050816?style=for-the-badge&color=FF7C00"/>
+<img src="https://img.shields.io/badge/Google%20Colab-050816?style=for-the-badge&color=FF7C00&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&color=FF7C00&logo=github&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cursor-050816?style=for-the-badge&color=FF7C00&logo=cursor&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-050816?style=for-the-badge&color=FF7C00&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-050816?style=for-the-badge&color=FF7C00&logo=git&logoColor=white"/>
 
 </div>
 
@@ -189,125 +330,228 @@ Documents → Processing → Chunking → Embeddings
 
 <br/>
 
-## 🏗️ What I Build
+# 🏗️ What I Build
 
 <table width="100%">
+
 <tr>
+
 <td width="50%" valign="top">
 
-**LLM Applications**
-RAG systems · Document Q&A · Domain-specific assistants · LLM-powered applications
+### 🧠 LLM Applications
 
-**AI Agents**
-Research agents · Tool-using agents · Workflow automation · Multi-step reasoning systems
+RAG systems · Document Q&A · Domain-specific assistants · LLM-powered applications · AI APIs
 
-**Production AI**
-LLM gateways · Evaluation pipelines · Guardrails · Observability · API services
+### 🤖 Agentic AI
+
+Research agents · Tool-using agents · Multi-agent systems · Planning · Memory · Workflow automation
+
+### 🔎 Retrieval Systems
+
+Vector search · Hybrid retrieval · Metadata filtering · Reranking · Embeddings · Knowledge retrieval
 
 </td>
+
 <td width="50%" valign="top">
 
-**Data Science**
-Data analysis · Machine learning · Predictive modeling · Visualization · Business analytics
+### 🛡️ Production AI
 
-**Intelligent Document Processing**
-OCR · Document understanding · Information extraction · Normalization · Classification
+LLM gateways · Model routing · Evaluation · Guardrails · Observability · Tracing · Reliability
+
+### 📄 Intelligent Documents
+
+OCR · Document understanding · Information extraction · PDF processing · Normalization · Classification
+
+### ⚙️ AI Infrastructure
+
+FastAPI services · Dockerized AI applications · Workflow orchestration · Model APIs · Agent protocols
 
 </td>
+
 </tr>
+
 </table>
+
+<br/>
+
+<div align="center">
+
+```text
+                    ┌─────────────────────┐
+                    │       USER          │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    AI APPLICATION   │
+                    └──────────┬──────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+        ┌───────────┐    ┌───────────┐    ┌───────────┐
+        │    RAG    │    │   AGENTS  │    │   TOOLS   │
+        └─────┬─────┘    └─────┬─────┘    └─────┬─────┘
+              │                │                │
+              └────────────────┼────────────────┘
+                               ▼
+                    ┌─────────────────────┐
+                    │   LLM / MODEL API   │
+                    └──────────┬──────────┘
+                               │
+                ┌──────────────┼──────────────┐
+                ▼              ▼              ▼
+           Evaluation      Guardrails   Observability
+                │              │              │
+                └──────────────┼──────────────┘
+                               ▼
+                    ┌─────────────────────┐
+                    │   PRODUCTION AI     │
+                    └─────────────────────┘
+```
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8FF,50:8B5CF6,100:EC4899&height=2&width=100%"/>
 
 <br/>
 
-## 💼 Experience
+# 💼 Experience
 
 <table width="100%">
-<tr><td>
+<tr>
+<td>
 
-**AI Engineer Intern — ZAWOLF.AI**
+### AI Engineer Intern — ZAWOLF.AI
+
 `August 2026 — Present`
 
-Working hands-on with LLM-based systems, applying academic foundations in AI and data science to real engineering problems — retrieval, prompt design, and evaluation of AI-driven components.
+Working on AI engineering problems involving **LLM applications, RAG pipelines, intelligent document processing, AI agents, and production-oriented APIs**.
 
-<!-- ADD YOUR INFORMATION HERE -->
+Current technical focus includes:
 
-</td></tr>
+* RAG architecture and hybrid retrieval
+* Vector databases and metadata-aware search
+* Agentic workflows and tool integration
+* OCR and document processing
+* LLM evaluation and observability
+* FastAPI-based AI services
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## 🎓 Education
+# 🎓 Education
 
 <table width="100%">
-<tr><td>
+<tr>
+<td>
 
-**B.Sc. Computer Science & Artificial Intelligence**
-Faculty of Computer Science & Artificial Intelligence, Benha University
+### B.Sc. Computer Science & Artificial Intelligence
+
+**Faculty of Computers & Artificial Intelligence — Benha University**
+
 `2020 – 2024`
 
-`GPA: 3.41 / 4.0`   ·   `Graduation Project: A+`
+`GPA: 3.41 / 4.0` · `Graduation Project: A+`
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,50:8B5CF6,100:00A8FF&height=2&width=100%"/>
 
 <br/>
 
-## 📈 Learning Journey
+# 🧪 Selected AI Engineering Work
+
+<div align="center">
+
+| Area                   | Technologies                                                                 |
+| ---------------------- | ---------------------------------------------------------------------------- |
+| **RAG Engineering**    | LangChain · LangGraph · Qdrant · pgvector · Hybrid Search · BM25 · Reranking |
+| **Agent Engineering**  | LangGraph · Agno · DeepAgents · OpenAI Agents SDK · Google ADK               |
+| **Agent Protocols**    | MCP · A2A · Tool Calling                                                     |
+| **LLM Infrastructure** | OpenRouter · Groq · Portkey · Model Routing                                  |
+| **AI Reliability**     | Evaluation · NeMo Guardrails · Logfire · LangSmith                           |
+| **Document AI**        | OCR · Unstructured · PDF Processing · Information Extraction                 |
+| **LLM Fine-Tuning**    | LoRA · QLoRA · Qwen · Hugging Face                                           |
+| **Backend**            | FastAPI · Pydantic · PostgreSQL · Docker · Temporal                          |
+| **AI Interfaces**      | Gradio · Streamlit                                                           |
+| **ML / CV**            | PyTorch · TensorFlow · OpenCV                                                |
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:8B5CF6,100:EC4899&height=2&width=100%"/>
+
+<br/>
+
+# 📈 Learning Journey
 
 ```text
 2020 ●━━━ B.Sc. Computer Science & Artificial Intelligence
       │
 2023 ●━━━ NTI AI/ML Training Program
       │
-2024 ●━━━ Graduated — A+ graduation project
+2024 ●━━━ Graduated — A+ Graduation Project
       │
-2025 ●━━━ Advanced Machine Learning & LLM Engineering
+2025 ●━━━ Machine Learning + LLM Engineering
       │
-2026 ●━━━ AI Engineering Internship + Agentic AI / RAG deep dive
+2026 ●━━━ AI Engineering Internship
+      │
+      ├━━━ RAG & Hybrid Retrieval
+      ├━━━ Agentic AI & Multi-Agent Systems
+      ├━━━ MCP & A2A
+      ├━━━ LLM Evaluation & Guardrails
+      ├━━━ AI Observability
+      ├━━━ Document Intelligence
+      └━━━ Production AI Architecture
 ```
 
 <br/>
 
-## 📜 Certifications & Training
+# 📜 Certifications & Training
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google%20Data%20Analytics%20Professional%20Certificate-0B1020?style=for-the-badge&color=00A8FF"/>
+<img src="https://img.shields.io/badge/Google%20Data%20Analytics%20Professional%20Certificate-050816?style=for-the-badge&color=00A8FF"/>
 <br/>
-<img src="https://img.shields.io/badge/AWS%20Academy%20Graduate%20—%20Data%20Engineering-0B1020?style=for-the-badge&color=8B5CF6&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS%20Academy%20Graduate%20%E2%80%94%20Data%20Engineering-050816?style=for-the-badge&color=8B5CF6&logo=amazonaws&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/DataCamp%20—%20ML%20Scientist%20in%20Python-0B1020?style=for-the-badge&color=00E5FF"/>
+
+<img src="https://img.shields.io/badge/DataCamp%20%E2%80%94%20ML%20Scientist%20in%20Python-050816?style=for-the-badge&color=00E5FF"/>
 <br/>
-<img src="https://img.shields.io/badge/NTI%20AI%2FML%20Training%20Program-0B1020?style=for-the-badge&color=EC4899"/>
+
+<img src="https://img.shields.io/badge/NTI%20AI%2FML%20Training%20Program-050816?style=for-the-badge&color=EC4899"/>
 <br/>
-<img src="https://img.shields.io/badge/DEY%20—%20Creativa%20Innovation%20Hubs-0B1020?style=for-the-badge&color=22C55E"/>
+
+<img src="https://img.shields.io/badge/DEY%20%E2%80%94%20Creativa%20Innovation%20Hubs-050816?style=for-the-badge&color=22C55E"/>
 
 </div>
-
-<!-- ADD YOUR INFORMATION HERE (certificate links, if available) -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00A8FF,50:8B5CF6,100:EC4899&height=2&width=100%"/>
 
 <br/>
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedBenTaha&show_icons=true&theme=dark&hide_border=true&bg_color=0B1020&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBenTaha&layout=compact&theme=dark&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmedBenTaha&show_icons=true&theme=dark&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBenTaha&layout=compact&theme=dark&hide_border=true&bg_color=050816&title_color=8B5CF6&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedBenTaha&theme=dark&hide_border=true&background=0B1020&ring=EC4899&fire=EC4899&currStreakLabel=00E5FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedBenTaha&theme=dark&hide_border=true&background=050816&ring=EC4899&fire=EC4899&currStreakLabel=00E5FF"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedBenTaha&theme=react-dark&bg_color=0B1020&color=00E5FF&line=8B5CF6&point=EC4899&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedBenTaha&theme=react-dark&bg_color=050816&color=00E5FF&line=8B5CF6&point=EC4899&hide_border=true"/>
 
 </div>
 
@@ -315,16 +559,16 @@ Faculty of Computer Science & Artificial Intelligence, Benha University
 
 <br/>
 
-## 🔥 GitHub Contribution Days
+# 🔥 GitHub Contribution Days
 
 <div align="center">
 
-<sub>My real contribution calendar — and the snake below animates by "eating" its way across the exact same grid, cell by cell.</sub>
+<sub>
+My real contribution calendar — with the snake animation following the same contribution grid.
+</sub>
 
 <br/><br/>
 
-**Contribution Graph**
-<!-- Generated automatically by .github/workflows/snake.yml — see Setup Instructions -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmedBenTaha/AhmedBenTaha/output/github-contribution-grid-snake.svg"/>
@@ -337,19 +581,33 @@ Faculty of Computer Science & Artificial Intelligence, Benha University
 
 <br/>
 
-## 📡 Let's Connect
+# 📡 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/AhmedBenTaha"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ahmedtaha26/"><img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.kaggle.com/ahmedelsayedtaha"><img src="https://img.shields.io/badge/Kaggle-00E5FF?style=for-the-badge&logo=kaggle&logoColor=black"/></a>
-<a href="https://huggingface.co/ApexVOrteX-1"><img src="https://img.shields.io/badge/Hugging%20Face-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white"/></a>
-<a href="mailto:<!-- ADD EMAIL HERE -->"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/AhmedBenTaha">
+<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ahmedtaha26/">
+<img src="https://img.shields.io/badge/LinkedIn-00A8FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.kaggle.com/ahmedelsayedtaha">
+<img src="https://img.shields.io/badge/Kaggle-00E5FF?style=for-the-badge&logo=kaggle&logoColor=black"/>
+</a>
+
+<a href="https://huggingface.co/ApexVOrteX-1">
+<img src="https://img.shields.io/badge/Hugging%20Face-8B5CF6?style=for-the-badge&logo=huggingface&logoColor=white"/>
+</a>
+
+<a href="mailto:<!-- ADD EMAIL HERE -->">
+<img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 
@@ -362,8 +620,14 @@ while True:
     improve()
 ```
 
+<br/>
+
+<sub>
+Designing AI systems that don't just generate — they retrieve, reason, act, evaluate, and improve.
+</sub>
+
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,25:00A8FF,50:8B5CF6,75:1A1A4A,100:0B1020&height=180&section=footer&text=Building%20intelligent%20systems%2C%20one%20experiment%20at%20a%20time.&fontSize=16&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,25:00A8FF,50:8B5CF6,75:312E81,100:050816&height=190&section=footer&text=Build%20%E2%80%A2%20Evaluate%20%E2%80%A2%20Improve&fontSize=18&fontColor=ffffff&animation=fadeIn"/>
