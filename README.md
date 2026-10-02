@@ -422,16 +422,18 @@ Production AI
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedBenTaha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmedBenTaha&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBenTaha&layout=compact&hide_border=true&theme=transparent" />
+<img height="170" src="https://streak-stats.demolab.com?user=AhmedBenTaha&theme=transparent&hide_border=true" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=AhmedBenTaha&theme=transparent&hide_border=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedBenTaha&bg_color=00000000&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&hide_border=true"
+  alt="Ahmed Taha GitHub Activity Graph"
+/>
 
 </div>
-
 ---
 
 ## `11` · CONNECT
