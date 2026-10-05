@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # AHMED ELSAYED TAHA
@@ -295,4 +294,4 @@ Production AI
 <sub>AI Engineer focused on building reliable LLM-powered systems.</sub>
 
 </div>
-```
+
