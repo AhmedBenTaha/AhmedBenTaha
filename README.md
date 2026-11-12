@@ -307,145 +307,8 @@ Working with unstructured real-world data:
 
 <a id="projects"></a>
 
-## `04` · SELECTED BUILDS
 
-<table>
-<tr>
-<td colspan="2" valign="top">
-
-### 🏠 Real Estate AI Assistant
-
-`FastAPI` · `Qdrant` · `PostgreSQL` · `pgvector` · `BM25` · `Reranking` · `OCR` · `CV` · `LangGraph`
-
-An AI assistant for Egyptian real estate workflows. It supports property search, ranking, lead qualification and intelligent conversational workflows.
-
-```text
-Property Data
-      │
-      ├── OCR / Document Processing
-      │
-      ├── Normalization
-      │
-      └── Metadata
-             ↓
-      Hybrid Retrieval
-      ↓
- Dense + BM25 + Reranking
-      ↓
-   AI Response
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Deep Research Agent
-
-`LangGraph` · `LangChain` · `Groq` · `Multi-Agent Workflow`
-
-A research agent that decomposes a question into research tasks and moves through a structured pipeline. It is designed around agent state, structured outputs and iterative refinement.
-
-```text
-Planner → Researcher → Writer → Critic
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Financial Analyst Assistant
-
-`Qwen2.5` · `LoRA` · `QLoRA` · `NF4` · `FinQA` · `FastAPI` · `Hugging Face`
-
-Fine-tuned a compact language model for financial question answering and exposed inference through an API.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📄 AI Contract Review
-
-`Temporal` · `FastAPI` · `OpenRouter` · `S3` · `HITL`
-
-An AI workflow for processing contract documents with asynchronous orchestration and human-in-the-loop review.
-
-</td>
-<td width="50%" valign="top">
-
-### 👤 AI Digital Twin
-
-`Gradio` · `Groq` · `Tool Calling` · `Pushover` · `PDF Processing`
-
-An AI assistant built around personal professional context, with tool-enabled interactions and external notifications.
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-### 🧬 Alzheimer’s Detection with Generative AI
-
-`Deep Learning` · `Computer Vision` · `Generative AI` · `Streamlit` · `TensorFlow` · `TFLite`
-
-Graduation project focused on Alzheimer’s disease classification from MRI data, combined with an AI assistant for patient/doctor interaction.
-
-</td>
-</tr>
-</table>
-
----
-
-## `05` · ENGINEERING MINDSET
-
-<div align="center">
-
-```text
-                 ┌───────────────┐
-                 │    PROBLEM    │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    DESIGN     │
-                 └───────┬───────┘
-                         ↓
-              ┌──────────┴──────────┐
-              ↓                     ↓
-        ┌───────────┐         ┌───────────┐
-        │   AGENT   │         │    RAG    │
-        └─────┬─────┘         └─────┬─────┘
-              └──────────┬──────────┘
-                         ↓
-                  ┌─────────────┐
-                  │   EVALUATE  │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │  GUARDRAILS │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │  OBSERVE    │
-                  └──────┬──────┘
-                         ↓
-                  ┌─────────────┐
-                  │   DEPLOY    │
-                  └─────────────┘
-```
-
-**The goal isn't just to make an LLM answer.**
-**The goal is to engineer the system around it.**
-
-</div>
-
----
-
-<a id="experience"></a>
-
-## `06` · EXPERIENCE
+## `04` · EXPERIENCE
 
 <table>
 <tr>
@@ -484,7 +347,7 @@ Developing practical skills in:
 
 ---
 
-## `07` · EDUCATION
+## `05` · EDUCATION
 
 **B.Sc. Artificial Intelligence & Data Science**
 Faculty of Computers & Artificial Intelligence · Benha University
@@ -493,59 +356,8 @@ Faculty of Computers & Artificial Intelligence · Benha University
 
 ---
 
-## `08` · CERTIFICATIONS
 
-* Google Data Analytics Professional Certificate
-* AWS Academy Graduate — Data Engineering
-* DataCamp — Machine Learning Scientist in Python
-* NTI — AI / Machine Learning Training Program
-
----
-
-## `09` · CURRENTLY EXPLORING
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Agentic AI**
-
-* Multi-Agent Systems
-* MCP
-* A2A
-* Agent Frameworks
-* Tool-Oriented Workflows
-
-</td>
-<td width="33%" valign="top">
-
-**LLM Engineering**
-
-* RAG Evaluation
-* Context Engineering
-* Fine-Tuning
-* Guardrails
-* Observability
-
-</td>
-<td width="33%" valign="top">
-
-**Production AI**
-
-* Reliable APIs
-* Workflow Orchestration
-* Model Routing
-* AI System Evaluation
-
-</td>
-</tr>
-</table>
-
----
-
-<a id="activity"></a>
-
-## `10` · GITHUB ACTIVITY
+## `06` · GITHUB ACTIVITY
 
 <div align="center">
 
@@ -566,7 +378,7 @@ Faculty of Computers & Artificial Intelligence · Benha University
 
 <a id="connect"></a>
 
-## `11` · CONNECT
+## `07` · CONNECT
 
 <div align="center">
 
